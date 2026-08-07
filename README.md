@@ -45,7 +45,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
 </div>
 
@@ -106,7 +106,7 @@ const developer = {
 ### 🧠 Atualmente estudando e evoluindo
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,tailwin,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,tailwind,github,vscode&theme=dark" />
 </p>
 
 </div>
@@ -135,7 +135,6 @@ const developer = {
 
 ---
 
-# `> projects --scan`
 
 <div align="center">
 
@@ -297,7 +296,6 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 
 ---
 
-# `> social --connect`
 
 <div align="center">
 
