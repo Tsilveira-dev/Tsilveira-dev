@@ -42,11 +42,10 @@
 
 ---
 
-# `> whoami`
 
 <div align="center">
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
 </div>
 
@@ -94,8 +93,6 @@ const developer = {
 
 ---
 
-# `> tech_stack --load`
-
 <div align="center">
 
 ## ⚡ Tech Stack
@@ -103,20 +100,19 @@ const developer = {
 ### 💻 Core Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,mysql,html,css,tailwind,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,mysql,html,css,&theme=dark" />
 </p>
 
 ### 🧠 Atualmente estudando e evoluindo
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,tailwin,github,vscode&theme=dark" />
 </p>
 
 </div>
 
 ---
 
-# `> tools --list`
 
 <div align="center">
 
@@ -192,7 +188,7 @@ Projeto de interface para restaurante, explorando:
 
 <td width="50%" valign="top">
 
-###  🧠 Experimentos Web
+###   Experimentos Web
 
 Projetos criados durante o processo de aprendizagem e experimentação com:
 
@@ -216,7 +212,6 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 
 ---
 
-# `> current_mission`
 
 <div align="center">
 
@@ -253,7 +248,6 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 
 ---
 
-# `> github --stats`
 
 <div align="center">
 
@@ -279,7 +273,6 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 
 ---
 
-# `> achievements --scan`
 
 <div align="center">
 
@@ -291,7 +284,6 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 
 ---
 
-# `> contributions --animate`
 
 <div align="center">
 
