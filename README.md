@@ -1,47 +1,22 @@
 <!-- ========================================================= -->
-
 <!--                 TSILVEIRA-DEV | README                    -->
-
 <!-- ========================================================= -->
 
 <div align="center">
-
-<!-- SYSTEM BOOT -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1020,100:00e5ff&height=220&section=header&text=TSILVEIRA-DEV&fontSize=52&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20JAVASCRIPT%20%7C%20REACT%20%7C%20MYSQL&descAlignY=58&descSize=16" width="100%"/>
 
 <br>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                  ⚡ SYSTEM INITIALIZATION ⚡                 ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [████████████████████████████████████████] 100%            ║
-║                                                              ║
-║  > Booting developer environment...                         ║
-║  > Loading JavaScript modules...       [ OK ]                ║
-║  > Loading React interface...          [ OK ]                ║
-║  > Connecting MySQL database...        [ OK ]                ║
-║  > Neural interface online...          [ OK ]                ║
-║  > Developer mode activated.            [ ONLINE ]           ║
-║                                                              ║
-║                 SYSTEM READY // TSILVEIRA-DEV                ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Initializing+developer+system...;Hello%2C+I'm+Tsilveira-dev+%F0%9F%91%8B;JavaScript+%7C+React+%7C+MySQL;Building+interfaces+with+code+%2B+creativity;Turning+ideas+into+digital+experiences...;System+online+%E2%9C%93" alt="Typing Animation"/>
-
-<br><br>
-
-
-
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Tsilveira-dev+%F0%9F%91%8B;JavaScript+%7C+React+%7C+MySQL;Building+interfaces+with+code+%2B+creativity;Turning+ideas+into+digital+experiences..." alt="Typing Animation"/>
 
 </div>
 
+<br>
+
 ---
 
+<br>
 
 <div align="center">
 
@@ -49,103 +24,91 @@
 
 </div>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     DEVELOPER PROFILE                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Name        :: Tsilveira-dev                              │
-│  Role        :: Developer                                   │
-│  Focus       :: Web Development                             │
-│  Main Stack  :: JavaScript + React + MySQL                  │
-│  Mindset     :: Learn → Build → Improve → Repeat            │
-│                                                             │
-│  STATUS      :: ████████████████████ ONLINE                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<br>
 
-Sou um desenvolvedor focado em **desenvolvimento web**, buscando transformar ideias em experiências digitais modernas, funcionais e bem estruturadas.
+<table border="0" width="100%">
+<tr>
+<td width="65%" valign="top">
 
-Atualmente, meu foco principal está em **JavaScript, React e MySQL**, enquanto continuo expandindo meus conhecimentos em desenvolvimento Front-End, Back-End, interfaces modernas e arquitetura de aplicações.
+Sou um desenvolvedor focado em **desenvolvimento web**, com o objetivo de transformar ideias em experiências digitais modernas, funcionais e bem estruturadas.
 
-```javascript
-const developer = {
-    username: "Tsilveira-dev",
+Atualmente concentro meus estudos em **JavaScript, React e MySQL**, enquanto expando meu conhecimento em Front-End, Back-End, arquitetura de aplicações e design de interfaces.
 
-    focus: [
-        "JavaScript",
-        "React",
-        "MySQL",
-        "Web Development"
-    ],
 
-    mindset: [
-        "Learn",
-        "Build",
-        "Experiment",
-        "Improve"
-    ],
+</td>
+<td width="35%" valign="top" align="center">
 
-    currentStatus: "Building the future..."
-};
-```
+**Foco atual**
+
+`JavaScript`
+`React`
+`MySQL`
+`Web Development`
+
+**Mindset**
+
+`Learn → Build → Improve → Repeat`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
+<br>
+
 <div align="center">
 
-## ⚡ Tech Stack
+##  Stack Técnica
 
-### 💻 Core Technologies
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,react,mysql,html,css,&theme=dark" />
-</p>
+<table border="0" width="100%">
+<tr>
+<td align="center" width="33%">
 
-### 🧠 Atualmente estudando e evoluindo
+**Front-End**
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,tailwind,github,vscode&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" /><br>
+
+</td>
+<td align="center" width="33%">
+
+**Back-End & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" /><br>
+
+</td>
+<td align="center" width="34%">
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /><br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-
-<div align="center">
-
-## 🛠️ Ferramentas
-
-| Tool            | Purpose                      |
-| --------------- | ---------------------------- |
-| ⚡ JavaScript    | Lógica e desenvolvimento web |
-| ⚛️ React        | Interfaces e aplicações web  |
-| 🗄️ MySQL       | Banco de dados               |
-| 🌐 HTML5        | Estrutura                    |
-| 🎨 CSS3         | Estilização                  |
-| 🌊 Tailwind CSS | UI moderna                   |
-| 🟢 Node.js      | Ambiente JavaScript          |
-| 🔧 Git          | Versionamento                |
-| 🐙 GitHub       | Código e colaboração         |
-| 💻 VS Code      | Desenvolvimento              |
-
-</div>
+<br>
 
 ---
 
+<br>
 
 <div align="center">
 
-##  🚀 Projetos em Destaque
+##   Projetos em Destaque
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-###  Quiz App
+###  Quiz App
 
 Aplicação interativa desenvolvida para praticar fundamentos de:
 
@@ -164,7 +127,7 @@ Aplicação interativa desenvolvida para praticar fundamentos de:
 
 <td width="50%" valign="top">
 
-###  Galeto Prime
+###  Galeto Prime
 
 Projeto de interface para restaurante, explorando:
 
@@ -187,7 +150,7 @@ Projeto de interface para restaurante, explorando:
 
 <td width="50%" valign="top">
 
-###   Experimentos Web
+###   Experimentos Web
 
 Projetos criados durante o processo de aprendizagem e experimentação com:
 
@@ -211,42 +174,30 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 
 ---
 
+<br>
 
 <div align="center">
 
-##  🎯 Objetivos Atuais
-
-```text
-┌───[ TSILVEIRA-DEV / CURRENT_MISSION ]──────────────────────┐
-│                                                             │
-│  [01] ███████████████████░░  JavaScript                     │
-│       └─ Strengthen fundamentals                            │
-│                                                             │
-│  [02] █████████████████░░░░  React                         │
-│       └─ Build scalable interfaces                          │
-│                                                             │
-│  [03] ████████████████░░░░░  MySQL                         │
-│       └─ Improve database knowledge                         │
-│                                                             │
-│  [04] ██████████████░░░░░░░  Full Stack                    │
-│       └─ Connect Front-End + Back-End                       │
-│                                                             │
-│  [05] ████████████░░░░░░░░░  Projects                      │
-│       └─ Build real-world applications                      │
-│                                                             │
-│  [06] ██████████░░░░░░░░░░░  GitHub                        │
-│       └─ Create a stronger developer portfolio              │
-│                                                             │
-│                                                             │
-│  STATUS :: LEARNING / BUILDING / EVOLVING                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+##   Objetivos Atuais
 
 </div>
 
+<br>
+
+| | |
+|---|---|
+| **JavaScript** — fortalecer os fundamentos | `▰▰▰▰▰▰▰▰▰▱` 90% |
+| **React** — construir interfaces escaláveis | `▰▰▰▰▰▰▰▰▱▱` 80% |
+| **MySQL** — aprofundar em banco de dados | `▰▰▰▰▰▰▰▱▱▱` 70% |
+| **Full Stack** — conectar Front-End + Back-End | `▰▰▰▰▰▰▱▱▱▱` 60% |
+| **Projetos** — construir aplicações reais | `▰▰▰▰▰▱▱▱▱▱` 50% |
+| **GitHub** — fortalecer o portfólio | `▰▰▰▰▱▱▱▱▱▱` 40% |
+
+<br>
+
 ---
 
+<br>
 
 <div align="center">
 
@@ -272,6 +223,7 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 
 ---
 
+<br>
 
 <div align="center">
 
@@ -283,6 +235,7 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 
 ---
 
+<br>
 
 <div align="center">
 
@@ -293,25 +246,24 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Tsilveira-dev/Tsilveira-dev/output/github-contribution-grid-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Tsilveira-dev/Tsilveira-dev/output/github-contribution-grid-snake.svg"
   />
-
   <img
     src="https://raw.githubusercontent.com/Tsilveira-dev/Tsilveira-dev/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
     width="95%"
   />
-
 </picture>
 
 </div>
 
+<br>
 
 ---
 
+<br>
 
 <div align="center">
 
@@ -320,7 +272,6 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 <a href="https://github.com/Tsilveira-dev">
 <img src="https://img.shields.io/badge/GitHub-Tsilveira--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -331,24 +282,24 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 <div align="center">
 
-## `SYSTEM STATUS`
+### `Status`
 
-```text
-╭────────────────────────────────────────────────────────╮
-│                                                        │
-│   ◉ CORE SYSTEM       ONLINE                           │
-│   ◉ JAVASCRIPT        ACTIVE                           │
-│   ◉ REACT             ACTIVE                           │
-│   ◉ MYSQL             CONNECTED                        │
-│   ◉ GITHUB            SYNCED                           │
-│   ◉ LEARNING          IN PROGRESS                      │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
+![Core System](https://img.shields.io/badge/Core_System-Online-00e5ff?style=flat-square&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-Active-00e5ff?style=flat-square&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-Active-00e5ff?style=flat-square&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-Connected-00e5ff?style=flat-square&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-Synced-00e5ff?style=flat-square&labelColor=0D1117)
+![Learning](https://img.shields.io/badge/Learning-In_Progress-00e5ff?style=flat-square&labelColor=0D1117)
+
+<br>
 
 ### ⚡ `Code. Learn. Build. Repeat.`
 
@@ -359,3 +310,4 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 <sub>© 2026 Tsilveira-dev • Built with code, curiosity and caffeine.</sub>
 
 </div>
+
