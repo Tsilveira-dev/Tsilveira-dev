@@ -288,11 +288,27 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 
 ## 🐍 Contribution Matrix
 
-<img src="https://raw.githubusercontent.com/Tsilveira-dev/Tsilveira-dev/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Tsilveira-dev/Tsilveira-dev/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Tsilveira-dev/Tsilveira-dev/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Tsilveira-dev/Tsilveira-dev/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+
+</picture>
 
 </div>
 
-> **Nota:** para essa animação funcionar, é necessário configurar o GitHub Action do Snake no repositório especial `Tsilveira-dev/Tsilveira-dev`.
 
 ---
 
