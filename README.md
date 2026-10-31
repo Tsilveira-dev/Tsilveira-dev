@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1020,100:00e5ff&height=220&section=header&text=TSILVEIRA-DEV&fontSize=52&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20REACT%20%7C%20MYSQL&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1020,100:00e5ff&height=220&section=header&text=TSILVEIRA-DEV&fontSize=52&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20PYTHON%20%7C%20MYSQL&descAlignY=58&descSize=16" width="100%"/>
 
 <br>
 
@@ -160,6 +160,8 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 * Interfaces
 * Componentes
 * Responsividade
+* Python
+* TypeScript
 
 <a href="https://github.com/Tsilveira-dev">
 <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
@@ -188,6 +190,7 @@ Projetos criados durante o processo de aprendizagem e experimentação com:
 |---|---|
 | **JavaScript** — fortalecer os fundamentos | `▰▰▰▰▰▰▰▰▰▱` 90% |
 | **React** — construir interfaces escaláveis | `▰▰▰▰▰▰▰▰▱▱` 80% |
+| **Python** — automações em projetos reais | `▰▰▰▰▰▱▱▱▱▱` 50% |
 | **MySQL** — aprofundar em banco de dados | `▰▰▰▰▰▰▰▱▱▱` 70% |
 | **Full Stack** — conectar Front-End + Back-End | `▰▰▰▰▰▰▱▱▱▱` 60% |
 | **Projetos** — construir aplicações reais | `▰▰▰▰▰▱▱▱▱▱` 50% |
