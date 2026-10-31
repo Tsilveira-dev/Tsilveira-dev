@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1020,100:00e5ff&height=220&section=header&text=TSILVEIRA-DEV&fontSize=52&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20PYTHON%20%7C%20POSTGRESQL&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1020,100:00e5ff&height=220&section=header&text=TSILVEIRA-DEV&fontSize=52&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20PYTHON%20%7C%20PostgreSQL&descAlignY=58&descSize=16" width="100%"/>
 
 <br>
 
